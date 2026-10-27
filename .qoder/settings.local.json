@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /home/andreas/projects/ysamjo/ysamjo.github.io/.pairfob -maxdepth 3 -printf '%M %u %g %s %p\\\\n' 2>/dev/null | head -50)"
+    ]
+  }
+}
